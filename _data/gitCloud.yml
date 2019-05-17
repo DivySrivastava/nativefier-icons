@@ -459,6 +459,13 @@
   href: files/soundcloud.ico
 - name: soundcloud
   href: files/soundcloud.icns
+  
+- name: spruce
+  href: files/spruce.png
+- name: spruce
+  href: files/spruce.ico
+- name: spruce
+  href: files/spruce.icns
 
 - name: tallyfy
   href: files/tallyfy.png
